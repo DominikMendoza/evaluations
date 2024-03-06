@@ -1,0 +1,24 @@
+[submodule "vue-to-do"]
+	path = vue-to-do
+	url = git@github.com:kitagawaowo/vue-to-do.git
+[submodule "EducationDemoCrud"]
+	path = EducationDemoCrud
+	url = git@github.com:kitagawaowo/EducationDemoCrud.git
+[submodule "OpenSourceParcial"]
+	path = OpenSourceParcial
+	url = git@github.com:kitagawaowo/OpenSourceParcial.git
+[submodule "Web-parcial"]
+	path = Web-parcial
+	url = git@github.com:kitagawaowo/Web-parcial.git
+[submodule "C4-Final"]
+	path = C4-Final
+	url = git@github.com:kitagawaowo/C4-Final.git
+[submodule "si730ebu20201b980.API"]
+	path = si730ebu20201b980.API
+	url = git@github.com:kitagawaowo/si730ebu20201b980.API.git
+[submodule "upc-pre-202202-si729-sw52-eb-u20201b980"]
+	path = upc-pre-202202-si729-sw52-eb-u20201b980
+	url = git@github.com:kitagawaowo/upc-pre-202202-si729-sw52-eb-u20201b980.git
+[submodule "upc-pre-202301-cc238-examen-final-U20201B980"]
+	path = upc-pre-202301-cc238-examen-final-U20201B980
+	url = git@github.com:kitagawaowo/upc-pre-202301-cc238-examen-final-U20201B980.git
